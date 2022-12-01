@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prototipo 2</string>
+    <string name="save_button">Salvar</string>
+    <string name="delete_button">deletar</string>
+    <string name="new_button">Novo</string>
+    <string name="TextoAddImg"><![CDATA[This is an <u>underline</u>.]]></string>
+</resources>
